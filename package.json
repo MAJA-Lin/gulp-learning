@@ -1,0 +1,25 @@
+{
+  "name": "gulp-learning",
+  "version": "1.0.0",
+  "description": "Learn how to gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cian6390/gulp-learning.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Cian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cian6390/gulp-learning/issues"
+  },
+  "homepage": "https://github.com/cian6390/gulp-learning#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
