@@ -1,0 +1,15 @@
+@import "compass/css3";	// 使用 compass/css3
+$primary-color: #ff0000;
+
+body {
+	background-color: #f1f1f1;
+	padding-top: 40px;
+	.container {
+		width:300px;
+		height:75px;
+		@include border-radius(5px);	// 測試compass
+		h1 {
+			color: $primary-color;
+		}
+	}
+}

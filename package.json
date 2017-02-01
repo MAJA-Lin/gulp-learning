@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/cian6390/gulp-learning#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-sass": "^3.1.0"
   }
 }
